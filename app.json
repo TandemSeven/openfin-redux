@@ -1,0 +1,19 @@
+{
+  "devtools_port": 9090,
+  "startup_app": {
+    "name": "openfin redux",
+    "description": "openfin redux",
+    "url": "http://localhost:3000",
+    "uuid": "openfin-redux-7nlagp8hi9",
+    "autoShow": true
+  },
+  "runtime": {
+    "arguments": "",
+    "version": "stable"
+  },
+  "shortcut": {
+    "company": "Genpact",
+    "description": "openfin with redux",
+    "name": "openfin-redux"
+  }
+}
